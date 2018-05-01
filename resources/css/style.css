@@ -1,5 +1,6 @@
 body {background-color: black;  }
 h1 {color: white; text-align: center; font-size: 65px;}
-.comingsoon {color: seagreen; font-size: 16px}
+.comingsoon {color: seagreen; font-size: 22px}
+h2 {text-align: center; color: seagreen; font-size: 22px;}
 p {text-align: center;}
-video {object-fit: contain;object-position:center;background-blend-mode: lighten;}
+video{object-fit: contain;object-position: right;}
